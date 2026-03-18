@@ -20,7 +20,6 @@ I have hands-on experience working with financial systems, REST APIs, and cloud-
 
 * Java
 * Spring Boot
-* Spring MVC
 * Hibernate / JPA
 
 **Frontend:**
@@ -34,6 +33,9 @@ I have hands-on experience working with financial systems, REST APIs, and cloud-
 
 * MySQL
 * Oracle
+* postgresql
+* sql
+* db2
 
 **DevOps & Tools:**
 
@@ -42,6 +44,8 @@ I have hands-on experience working with financial systems, REST APIs, and cloud-
 * Kubernetes
 * AWS
 * Git
+* Gradle
+* Maven
 
 ---
 
